@@ -15,4 +15,6 @@ Step-7: Create a PostgreSQL trigger that sends notifications to the WebSocket se
 
 Step-8: Implement a WebSocket event handler to receive and broadcast the notifications to connected clients.
 
+Let's Get into it.
+
 </H4>
