@@ -18,3 +18,7 @@ Step-8: Implement a WebSocket event handler to receive and broadcast the notific
 Let's Get into it.
 
 </H4>
+
+<H5>
+pip install Flask Flask-SocketIO Flask-GraphQL Flask-RESTful psycopg2
+</H5>
